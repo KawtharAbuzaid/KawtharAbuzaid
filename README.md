@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Chat app**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Machine Learning**
 
 - ⚡ Fun fact **I love cinema**
 
