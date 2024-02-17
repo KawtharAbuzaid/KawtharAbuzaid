@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kawthar</h1>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTUzMmVlNDYxNzhlYTMyNmFkOGU2YTY0MzA4YmU2MDZjYmVjMWM0OSZjdD1z/f6hnhHkks8bk4jwjh3/giphy.gif">
 
-- 🔭 I’m currently working on **Chat app**
+- 🔭 I’m currently working on **Facial Expression Recognition model**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Image Processing**
 
 - ⚡ Fun fact **I love cinema**
 
